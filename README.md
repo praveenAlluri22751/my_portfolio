@@ -46,7 +46,7 @@ This is my Portfolio.
 
 Stay peace :lotus_position:
 
-![crypto](./thumbnail.png)
+![portfolio](./img/PF.png)
 
 [Protfolio Link](https://yellowmultiverse.netlify.app/)
 
