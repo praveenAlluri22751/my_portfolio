@@ -38,9 +38,7 @@ body::-webkit-scrollbar {
     width: 100%;
     background-image: url('img/background.png');
     background-position: center;
-    background-size: cover;
-    
-            
+    background-size: cover;           
 }
 
 
@@ -462,7 +460,7 @@ footer p:nth-child(2) {
 
 #certificate {
   padding: 1px;
-  background-color: #101010 ;
+  background-color: #000 ;
   color: #808080
 }
 
