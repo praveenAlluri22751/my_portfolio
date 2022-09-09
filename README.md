@@ -48,7 +48,7 @@ Stay peace :lotus_position:
 
 ![portfolio](./img/bgg.png)
 
-[Protfolio Link](https://yellowmultiverse.netlify.app/)
+[Protfolio Link](https://ipa-portfolio.netlify.app/)
 
 # Hangouts
 
